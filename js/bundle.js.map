@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "file": "bundle.js",
+    "mappings": ";;;;;AAAA;AACA;AACA;AACA;AACA;AACA,KAAK;AACL;AACA;AACA;AACA,KAAK,C",
+    "sources": ["webpack://figma/./js/script.js"],
+    "sourcesContent": ["const sliderPrev= document.querySelector(\".slider-prev\"),\r\n        sliderNext = document.querySelector(\".slider-next\");\r\n\r\n    sliderNext.addEventListener('click', () => {\r\n        \r\n    })\r\n\r\n    sliderPrev.addEventListener('click', () => {\r\n        \r\n    })"],
+    "names": [],
+    "sourceRoot": ""
+}
